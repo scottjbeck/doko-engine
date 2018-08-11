@@ -1,0 +1,15 @@
+{
+    "name": "doko-engine",
+    "version": "0.0.1",
+    "description": "Engine framework for doko documentation platform",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Scott J Beck <scott@scottjbeck.com> (https://scottjbeck.com)",
+    "license": "ISC",
+    "repository": "git@github.com:scottjbeck/doko-engine.git",
+    "engines": {
+        "node": ">= 8.11.0"
+    }
+}
