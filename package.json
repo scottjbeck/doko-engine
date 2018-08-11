@@ -1,6 +1,6 @@
 {
     "name": "doko-engine",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Engine framework for doko documentation platform",
     "main": "index.js",
     "scripts": {
